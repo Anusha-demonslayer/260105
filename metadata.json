@@ -1,0 +1,6 @@
+{
+  "name": "CyberRiskTwin - Continuous Cyber Risk Quantification & Investment Optimizer",
+  "description": "AI-powered Digital Twin for continuous cyber risk quantification (FAIR framework), interactive attack graph simulation, breach blast radius analysis, and optimal security control ROI investment allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
